@@ -1,5 +1,3 @@
-// ★ Node 모듈 임포트 삭제 ★
-
 // 1. html 요소 선택
 const todoInput = document.getElementById('todo-input') as HTMLInputElement;
 const todoForm  = document.getElementById('todo-form')  as HTMLFormElement;
